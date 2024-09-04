@@ -57,25 +57,26 @@ The application was deployed on Streamlit and can be accessed through this [link
 **FEATURES SELECTION/ADDITION**
 
 Based on the original dataset, we conducted an intensive EDA to identify the features we wanted to use for our analysis.
+
 For example, we use a bar chart, as shown below, to show how planning area feature affects the resale price
 ![planningarea_vs_avgpricepersqft](images/planningarea_vs_avgpricepersqft.jpg)
 
 As we can see from the chart, it reflects how location strongly influences property prices in Singapore, with central areas being more premium.
 We also created a new numeric classification feature named avg_desirability_rounded to further categorize primary schools based on their desirability.
 In the end, we decided to focus on the 13 variables listed below for our machine learning phase.
-1. **Tranc_YearMonth
-2. **full_flat_type
-3. **mrt_name
-4. **building_age
-5. **planning_area
-6. **floor_area_sqm
-7. **max_floor_lvl
-8. **Hawker_Nearest_Distance
-9. **mrt_nearest_distance
-10. **pri_sch_nearest_distance
-11. **mid_storey
-12. **Mall_Nearest_Distance
-13. **avg_desirability_rounded
+1. Tranc_YearMonth
+2. full_flat_type
+3. mrt_name
+4. building_age
+5. planning_area
+6. floor_area_sqm
+7. max_floor_lvl
+8. Hawker_Nearest_Distance
+9. mrt_nearest_distance
+10. pri_sch_nearest_distance
+11. mid_storey
+12. Mall_Nearest_Distance
+13. avg_desirability_rounded
 
 **SIGNIFICANT FINDINGS**
 
@@ -104,12 +105,12 @@ XGBoost outperforms the other two models in terms of both accuracy (lowest RMSE)
 ## Reflections
 We want to reflect on key stages in our team work process:
 1. Data Handling
-- **Cleaning & Feature Engineering: The team effectively cleaned the data and engineered key features, like flat_type and hdb_age, which were crucial for accurate predictions.
-- **Variable Selection: Relevant variables were carefully chosen, including handling categorical data properly and exploring interactions, improving model accuracy.
+- Cleaning & Feature Engineering: The team effectively cleaned the data and engineered key features, like flat_type and hdb_age, which were crucial for accurate predictions.
+- Variable Selection: Relevant variables were carefully chosen, including handling categorical data properly and exploring interactions, improving model accuracy.
 2. Model Fine-Tuning
-- **Hyperparameter Tuning: The team used grid and random search techniques to optimize hyperparameters, ensuring models were finely tuned for performance.
-- **Cross-Validation: Cross-validation helped prevent overfitting and ensured the models generalized well.
-- **Technical Challenges: Challenges like balancing model complexity with run time and handling large datasets were tackled effectively, ensuring efficient model training.
+- Hyperparameter Tuning: The team used grid and random search techniques to optimize hyperparameters, ensuring models were finely tuned for performance.
+- Cross-Validation: Cross-validation helped prevent overfitting and ensured the models generalized well.
+- Technical Challenges: Challenges like balancing model complexity with run time and handling large datasets were tackled effectively, ensuring efficient model training.
 Summary
 The team’s strong approach to data handling, variable selection, and model fine-tuning, combined with overcoming technical challenges, led to the development of accurate and reliable models for predicting HDB resale prices.
 ---
