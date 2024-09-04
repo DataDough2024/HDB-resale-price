@@ -57,14 +57,14 @@ The application was deployed on Streamlit and can be accessed through this [link
 **FEATURES SELECTION/ADDITION**
 
 Based on the original dataset, we conducted an intensive EDA to identify the features we wanted to use for our analysis.
-For example, we use a bar chart to show how planning area feature affects the resale price
+For example, we use a bar chart, as shown below, to show how planning area feature affects the resale price
 ![planningarea_vs_avgpricepersqft](images/planningarea_vs_avgpricepersqft.jpg)
 
 As we can see from the chart, it reflects how location strongly influences property prices in Singapore, with central areas being more premium.
 We also created a new numeric classification feature named avg_desirability_rounded to further categorize primary schools based on their desirability.
 In the end, we decided to focus on the 13 variables listed below for our machine learning phase.
-1.**Tranc_YearMonth
-2.**full_flat_type
+1.**Tranc_YearMonth**
+2.**full_flat_type**
 3.**mrt_name
 4.**building_age
 5.**planning_area
