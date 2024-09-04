@@ -3,9 +3,7 @@
  - [Background](#Background)
  - [Problem Statement](#Problem-Statement)
  - [Data Sources](#Data-Sources)
- - [Folder Structure](#Folder-Structure)
  - [Executive Summary](#Executive-Summary)
- - [Feature Selection & Justification](#Feature-Selection-&-Justification)
  - [Recommendations](#Recommendations)
  - [Conclusion](#Conclusion)
  
