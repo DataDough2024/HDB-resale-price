@@ -44,7 +44,6 @@ This project seeks to make predictions on the outcome of HDB resale prices throu
 
 **METHODOLOGY**
 
-The work was done in 7 seperate notebooks.
 1. Preprocessing - Cleaning and tidying of data, Feature Engineering
 2. EDA - Data visualisation and analysis of key patterns
 3. Regression Modelling - Testing dataset fitted on 3 models to get regression predictions
