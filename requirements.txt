@@ -3,4 +3,3 @@ joblib
 folium
 streamlit-folium
 geopy
-streamlit
