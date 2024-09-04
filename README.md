@@ -33,9 +33,9 @@ We will follow the data science process to answer this problem.
 
 --- 
 ## Data Sources
-The dataset contains HDB resale data from March 2012 to April 2021. The dataset contains 150,634 rows and 78 columns. The data can be downloaded from Google Drive at [this link](https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data).
+The dataset contains HDB resale data from March 2012 to April 2021. The dataset contains 150,634 rows and 78 columns. The data can be downloaded from Kaggle at [this link](https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data).
 
-The data dictionary will be provided at the bottom of this file.
+The data dictionary can be accessed through the link above.
 
 ---
 ## Executive Summary
