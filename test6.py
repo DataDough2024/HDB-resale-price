@@ -176,7 +176,7 @@ with right_column:
             marker = folium.Marker(location=coordinates, popup=f"Location: {postal_code}")
             marker.add_to(map_object)
         else:
-            right_column.error("Postal code not found or invalid. Please enter a valid Singapore postal code.")
+            right_column.error("Postal code not found or invalid. If you've entered a postal code starting with a zero, such as 085055. Please remove the leading zero and enter a valid HDB flat postal code for resale, like 85055 instead.")
 
     # Display the map in Streamlit
     st_folium(map_object, width=1000, height=600)
