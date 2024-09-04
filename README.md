@@ -1,3 +1,10 @@
+Folder structure
+data_dough/
+├── code/
+│   
+├── data/
+├── readme.md
+└── streamlit/
 # HDB-resale-price
  - [Background](#Background)
  - [Problem Statement](#Problem-Statement)
