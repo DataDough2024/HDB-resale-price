@@ -1,5 +1,6 @@
 pandas
-Path
-streamlit
 joblib
+folium
 streamlit-folium
+geopy
+streamlit
