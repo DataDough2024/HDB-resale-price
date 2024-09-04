@@ -10,7 +10,7 @@
  
 
 ## Background
-![HDB Resale](images/anatoliy-shostak-DZ5yS11N9CA-unsplash.jpg)
+![HDB block in Singapore](images/anatoliy-shostak-DZ5yS11N9CA-unsplash.jpg)
 
 From 2012 to 2021, Housing and Development Board (HDB) resale prices in Singapore experienced significant fluctuations due to various policy changes, market demand, and economic factors. In 2013, the Singapore government implemented several cooling measures, including the Total Debt Servicing Ratio (TDSR) framework and a reduction in the Mortgage Servicing Ratio (MSR) for HDB loans, which led to a decline in resale prices from 2014 to 2017. However, from 2018 onwards, the HDB resale market began to recover, driven by factors such as a stable economy and increased demand for public housing.
 
@@ -18,8 +18,6 @@ By 2020, the COVID-19 pandemic had created unique pressures on the market, inclu
 
 ## Problem Statement
 Estate agents face several challenges in this dynamic market. These include accurately pricing properties in a fluctuating market, managing client expectations amid rising prices, and navigating the complexities of government regulations. Additionally, there is a growing trend for new homeowners to prioritise purchasing homes near top schools, further intensifying competition in certain areas, which adds another layer of complexity for agents trying to meet client demands.
-
-![BetLowest](https://github.com/ethan-eplee/HorseRacePrediction/blob/main/images/bet_lowest_odds.jpg)
 
 And so the problem we want to address here is: 
 
@@ -35,7 +33,7 @@ We will follow the data science process to answer this problem.
 
 --- 
 ## Data Sources
-The dataset contains HDB resale data from March 2012 to April 2021. The dataset contains 150,634 rows and 78 columns. The data can be downloaded from Google Drive at [this link](https://drive.google.com/file/d/1KnT9XkEfdUG2GSIzglD-0GyegZJ0WNSA/view?usp=sharing).
+The dataset contains HDB resale data from March 2012 to April 2021. The dataset contains 150,634 rows and 78 columns. The data can be downloaded from Google Drive at [this link] (https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data).
 
 The data dictionary will be provided at the bottom of this file.
 
