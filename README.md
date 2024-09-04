@@ -52,7 +52,7 @@ The work was done in 7 seperate notebooks.
 6. Backtesting - Using test data to answer the problem statement of whether we can predict resale prices
 7. Deployment - To build an application using Streamlit, where agents can key in simplified inputs to get a prediction on the resale price.
 
-The application was deployed on Streamlit and can be accessed through this [link](TO BE INCLUDED). A screenshot showing the app is shown below. Please note that this app was only intended as an educational and demo tool, and not meant to be used for real life house planning.
+The application was deployed on Streamlit and can be accessed through this [link](https://hdb-resale-price.streamlit.app/). A screenshot showing the app is shown below. Please note that this app was only intended as an educational and demo tool, and not meant to be used for real life house planning.
 
 ![App](images/Streamlit-HDB-Resale-Price-Prediction.png)
 
