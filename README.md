@@ -55,7 +55,7 @@ The work was done in 7 seperate notebooks.
 
 The application was deployed on Streamlit and can be accessed through this [link](TO BE INCLUDED). A screenshot showing the app is shown below. Please note that this app was only intended as an educational and demo tool, and not meant to be used for real life house planning.
 
-![App](https://github.com/ethan-eplee/HorseRacePrediction/blob/main/images/app.jpg)
+![App](images/Streamlit-HDB-Resale-Price-Prediction.png)
 
 
 **SIGNIFICANT FINDINGS**
