@@ -63,8 +63,7 @@ The application was deployed on Streamlit and can be accessed through this [link
 Based on a context of structured tabular dataset, we managed to filter out the three strongest options for modeling which are Light Gradient Boosting Machine (LightGBM), CatBoost and Extreme Gradient Boosting Machine (XGBoost).
 
 We further analysed performance of three machine learning models using metrics such as Train RMSE, Test RMSE, Train R², Test R² and Run Time (s). 
-Here’s the analysis:
-
+![models_metrics_table](images/metrics_quantitative_table.jpg)
 1. Light Gradient Boosting Machine
 Train RMSE: 23,594
 Test RMSE: 23,699
