@@ -3,7 +3,7 @@
  - [Background](#Background)
  - [Problem Statement](#Problem-Statement)
  - [Data Sources](#Data-Sources)
- - ![Folder Structure](path_to_image/folder_structure.png)
+ - ![Folder Structure](images/folder_structure.jpg)
  - [Executive Summary](#Executive-Summary)
  - [Feature Selection & Justification](#Feature-Selection-&-Justification)
  - [Recommendations](#Recommendations)
