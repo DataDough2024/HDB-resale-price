@@ -1,14 +1,9 @@
-Folder structure
-data_dough/
-├── code/
-│   
-├── data/
-├── readme.md
-└── streamlit/
+
 # HDB-resale-price
  - [Background](#Background)
  - [Problem Statement](#Problem-Statement)
  - [Data Sources](#Data-Sources)
+ - ![Folder Structure](path_to_image/folder_structure.png)
  - [Executive Summary](#Executive-Summary)
  - [Feature Selection & Justification](#Feature-Selection-&-Justification)
  - [Recommendations](#Recommendations)
