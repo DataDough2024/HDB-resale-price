@@ -63,19 +63,19 @@ For example, we use a bar chart, as shown below, to show how planning area featu
 As we can see from the chart, it reflects how location strongly influences property prices in Singapore, with central areas being more premium.
 We also created a new numeric classification feature named avg_desirability_rounded to further categorize primary schools based on their desirability.
 In the end, we decided to focus on the 13 variables listed below for our machine learning phase.
-1.**Tranc_YearMonth**
-2.**full_flat_type**
-3.**mrt_name
-4.**building_age
-5.**planning_area
-6.**floor_area_sqm
-7.**max_floor_lvl
-8.**Hawker_Nearest_Distance
-9.**mrt_nearest_distance
-10.**pri_sch_nearest_distance
-11.**mid_storey
-12.**Mall_Nearest_Distance
-13.**avg_desirability_rounded
+1. **Tranc_YearMonth
+2. **full_flat_type
+3. **mrt_name
+4. **building_age
+5. **planning_area
+6. **floor_area_sqm
+7. **max_floor_lvl
+8. **Hawker_Nearest_Distance
+9. **mrt_nearest_distance
+10. **pri_sch_nearest_distance
+11. **mid_storey
+12. **Mall_Nearest_Distance
+13. **avg_desirability_rounded
 
 **SIGNIFICANT FINDINGS**
 
