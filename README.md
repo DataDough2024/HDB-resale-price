@@ -3,7 +3,6 @@
  - [Problem Statement](#Problem-Statement)
  - [Data Sources](#Data-Sources)
  - [Executive Summary](#Executive-Summary)
- - [Data Dictionary](#Data-Dictionary)
  - [Feature Selection & Justification](#Feature-Selection-&-Justification)
  - [Recommendations](#Recommendations)
  - [Conclusion](#Conclusion)
