@@ -39,8 +39,7 @@ The dataset contains HDB resale data from March 2012 to April 2021. The dataset 
 The data dictionary can be accessed through the link above.
 ## Folder Structure
 data_dough/
-├── code/
-│   
+├── code/ 
 ├── data/
 ├── readme.md
 └── streamlit/ 
