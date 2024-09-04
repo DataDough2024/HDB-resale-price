@@ -2,4 +2,4 @@ pandas
 Path
 streamlit
 joblib
-folium
+streamlit-folium
